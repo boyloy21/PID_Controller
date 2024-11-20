@@ -1,5 +1,5 @@
 # PID_Controller
-_ For file C can take to use in to control Microtrol Microcontroller such that STM32 on motion Robot.<br>
+_ For file C you can take to use in Microcontroller such that STM32 on motion Robot.<br>
 _ For file Python can use simulation and control robot on real with PC .
 ## Flow to use Simulation:
 1. Install ROS2 foxy
